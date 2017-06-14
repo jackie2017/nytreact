@@ -1,0 +1,1 @@
+deleteArticle.js
